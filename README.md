@@ -1,5 +1,7 @@
 # Oobabooga Text Generation Server (Runpod Ready)
 
+[![RunPod](https://api.runpod.io/badge/justinwlin/Oobabooga-Text-Gen-Qwen2.5-7B-Instruct-Runpod)](https://www.runpod.io/console/hub/justinwlin/Oobabooga-Text-Gen-Qwen2.5-7B-Instruct-Runpod)
+
 This project provides a Dockerized oobabooga text generation server, ready for deployment on Runpod with serverless support (or even Pod support). It exposes an OpenAI-compatible API endpoint on port 5000, making it easy to integrate with existing OpenAI API clients.
 
 # Variants
